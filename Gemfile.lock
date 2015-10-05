@@ -117,6 +117,7 @@ DEPENDENCIES
   mysql2
   rails (= 4.2.3)
   sdoc (~> 0.4.0)
+  tzinfo
   tzinfo-data
   web-console (~> 2.0)
 
